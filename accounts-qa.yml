@@ -16,7 +16,7 @@ build:
 accounts:
   message: "Welcome to Accounts Service"
   contactDetails:
-    name: "Karthik - Dev"
+    name: "Karthik - Dev Lead"
     email: "{cipher}c8018ec0bf53a61be5da00452fa49560ed3a5b6a4e14b0285e5793903f547b4b5766dd1622dabc800e0e0b818281ae96"
   onCallSupport:
    - (484) 555-1218
