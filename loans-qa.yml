@@ -1,0 +1,20 @@
+server:
+  port: 8090
+spring:
+  datasource:
+    url: jdbc:h2:mem:testdb
+    driverClassName: org.h2.Driver
+    username: sa
+    password: ''
+  config:
+    activate:
+      on-profile: qa
+
+loans:
+  message: "Welcome to Loans Service"
+  contactDetails:
+    name: "Srikanth - Dev"
+    email: "srikanth@eazybytes.com"
+  onCallSupport:
+    - (484) 555-1212
+    - (484) 555-1213

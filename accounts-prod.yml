@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: "accounts"
+  datasource:
+    url: jdbc:h2:mem:testdb
+    driverClassName: org.h2.Driver
+    username: sa
+    password: ''
+#  config:
+#    activate:
+#      on-profile: "prod"
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Accounts Service"
+  contactDetails:
+    name: "Srikanth - Dev"
+    email: "Srikanth@eazybytes.com"
+  onCallSupport:
+   - (484) 555-1210
+   - (484) 555-1215

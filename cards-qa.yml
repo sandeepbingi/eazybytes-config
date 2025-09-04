@@ -1,0 +1,20 @@
+spring:
+  datasource:
+    url: jdbc:h2:mem:testdb
+    driverClassName: org.h2.Driver
+    username: sa
+    password: ''
+  config:
+    activate:
+      on-profile: "qa"
+build:
+  version: "1.2"
+
+cards:
+  message: "Welcome to Cards Service"
+  contactDetails:
+    name: "Karthik - Dev"
+    email: "karthik@eazybytes.com"
+  onCallSupport:
+    - (484) 555-1214
+    - (484) 555-1215
