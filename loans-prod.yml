@@ -13,7 +13,7 @@ spring:
 loans:
   message: "Welcome to Cards Service"
   contactDetails:
-    name: "Karthik - Dev"
+    name: "Sandeep - Dev Lead"
     email: "kartik@eazybytes.com"
   onCallSupport:
     - (484) 555-1212
