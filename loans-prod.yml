@@ -11,10 +11,10 @@ spring:
       on-profile: prod
 
 loans:
-  message: "Welcome to Cards Service"
+  message: "Welcome to Cards Service - EazyBank"
   contactDetails:
     name: "Karthik - Dev Lead"
     email: "kartik@eazybytes.com"
   onCallSupport:
-    - (484) 555-1212
-    - (484) 555-1213
+    - (484) 555-1215
+    - (484) 555-1216
