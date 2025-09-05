@@ -11,13 +11,13 @@ spring:
 #      on-profile: "prod"
 
 build:
-  version: "1.0"
+  version: "1.6"
 
 accounts:
   message: "Welcome to Accounts Service"
   contactDetails:
-    name: "Srikanth - Dev"
+    name: "Srikanth - Dev Lead"
     email: "{cipher}986a151074ddbf87962be964a7241542f0561bcf17dcd18c54bca0619dadca9552117351cdeadeecd78cb6edcf5cce23"
   onCallSupport:
-   - (484) 555-1210
-   - (484) 555-1215
+   - (484) 555-1219
+   - (484) 555-1211
