@@ -16,12 +16,12 @@ spring:
     show-sql: true
 
 build:
-  version: "3.0"
+  version: "4.0"
 
 accounts:
   message: "Welcome to Accounts Service"
   contactDetails:
-    name: "Sandeep - Dev"
+    name: "Sandeep - Dev Lead"
     email: "{cipher}8ce0d2d7b9b0f5f2b301d6dfe3c19fb70c7fcc0716c67700ac6018c854cfabc7d01b606b03eb4d2de24b8cc243240bb0"
   onCallSupport:
    - (484) 555-1212
