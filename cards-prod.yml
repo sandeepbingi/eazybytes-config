@@ -13,7 +13,7 @@ build:
 cards:
   message: "Welcome to Cards Service"
   contactDetails:
-    name: "Srikanth - Dev Lead"
+    name: "Srikanth B - Dev Lead"
     email: "srikanth@eazybytes.com"
   onCallSupport:
     - (484) 555-1216
